@@ -1,0 +1,8 @@
+[deps]
+ControlSystemIdentification = "3abffc1c-5106-53b7-b354-a47bfc086282"
+DAQP = "c47d62df-3981-49c8-9651-128b1cd08617"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MatrixEquations = "99c1a7ee-ab34-5fd5-8076-27c950a045f4"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
